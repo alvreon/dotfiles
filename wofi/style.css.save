@@ -1,0 +1,37 @@
+#window{
+	font-size: 25px;
+	background-color: rgb(0,1,10);
+	color: #0fffff;
+	border:1px solid #0fffff;
+}
+
+*{
+	/*border-radius: 20px;*/
+	outline:none;
+}
+
+#outer-box{
+	padding: 10px;
+}
+
+expander > list > #entry{
+	color: white;
+	padding-left: 40px;
+	background-color: black;
+}
+#input{
+	color: #0fffff;
+	background-color: black;
+	border: none;
+}
+
+#entry:selected{
+	background-color: rgb(0,1,36);
+	outline: none;
+}
+
+/*
+#input-focus{
+	border-color: transparent;
+}
+*/

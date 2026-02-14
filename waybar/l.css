@@ -1,5 +1,5 @@
 #waybar { 
-  background-color: transparent; 
+  background-color: black; 
   color: #0fffff; 
 }
 
@@ -17,14 +17,4 @@
 
 #workspaces button.urgent {
     background-color: rgb(255,0,13);
-}
-
-button {
-    border: none;
-    border-radius: 0;
-}
-button:hover {
-    box-shadow: inherit;
-    text-shadow: inherit;
-    background: inherit;
 }
